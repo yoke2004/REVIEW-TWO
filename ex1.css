@@ -1,0 +1,16 @@
+*{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgHQ2K2hPSPLNNSFlrnWbcGNRw3tBW_jKeHuySEsfcK0_aew8wYZkcqtJifyqahHtCJPtd9FtT57w&usqp=CAU&ec=48665698);
+    background-size: 40rem 60rem;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+.a{
+    text-align: center;
+    color: aliceblue;
+    padding: 3cm;
+    font-size: larger;
+    font-style:oblique;
+}
+
